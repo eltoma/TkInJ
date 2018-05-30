@@ -1,4 +1,4 @@
-package per.think;
+package think;
 
 import java.util.Scanner;
 import java.util.regex.MatchResult;
